@@ -1,0 +1,3 @@
+verilog work "traffic_light_fsm.v"
+verilog work "delay_counter.v"
+verilog work "traffic_light.v"

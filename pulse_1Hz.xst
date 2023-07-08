@@ -1,0 +1,5 @@
+set -tmpdir "D:/HK2_Nam3/TKVM/Traffic_light/xst/projnav.tmp"
+set -xsthdpdir "D:/HK2_Nam3/TKVM/Traffic_light/xst"
+elaborate
+-ifn pulse_1Hz.prj
+-ifmt mixed

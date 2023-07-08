@@ -1,0 +1,4 @@
+MO delay_counter NULL delay_counter.v vlg42/delay__counter.bin 1688829978
+MO traffic_light NULL traffic_light.v vlg72/traffic__light.bin 1688829978
+MO pulse_1Hz NULL pulse_1Hz.v vlg3F/pulse__1_hz.bin 1688829918
+MO traffic_light_fsm NULL traffic_light_fsm.v vlg57/traffic__light__fsm.bin 1688829978
